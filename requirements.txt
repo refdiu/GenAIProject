@@ -4,3 +4,4 @@ langchain
 transformers
 langchain-community
 crewai
+chromadb

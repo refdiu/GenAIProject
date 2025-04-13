@@ -1,0 +1,13 @@
+{
+  "title": "User can view their tasks",
+  "description": "As a user, I want to be able to view my tasks so that I can see what needs to be done and when.",
+  "acceptanceCriteria": [
+    "The system should display the list of tasks in chronological order.",
+    "The system should allow the user to filter their tasks by status (in progress, completed, deferred) or priority level (high, medium, low)."
+  ],
+  "priority": "Medium",
+  "storyPoints": 5,
+  "dependencies": [
+    "User can create a new task"
+  ]
+}

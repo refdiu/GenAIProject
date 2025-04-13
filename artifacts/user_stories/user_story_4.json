@@ -1,0 +1,13 @@
+{
+  "title": "User can delete their tasks",
+  "description": "As a user, I want to be able to delete my tasks so that I can remove any completed or unnecessary tasks from my list.",
+  "acceptanceCriteria": [
+    "The system should allow the user to delete one or more tasks by selecting them in the task list.",
+    "The system should confirm the deletion of the task with the user before removing it."
+  ],
+  "priority": "Medium",
+  "storyPoints": 5,
+  "dependencies": [
+    "User can view their tasks"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "System sends email reminders for upcoming tasks",
+  "description": "As a user, I want the system to send me email reminders for my upcoming tasks so that I am aware of any deadlines and can complete them on time.",
+  "acceptanceCriteria": [
+    "The system should schedule regular emails (daily, weekly, or monthly) for each user based on their task list.",
+    "The email reminders should include the title and due date of each upcoming task."
+  ],
+  "priority": "High",
+  "storyPoints": 8,
+  "dependencies": []
+}

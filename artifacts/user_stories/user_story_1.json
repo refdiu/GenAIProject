@@ -1,8 +1,14 @@
 {
-  "title": "Untitled Story",
-  "description": "Return the JSON.loads().\n         Return the JSON.loads().\n        Return the JSON.loads().\n       Return the JSON.loads().\n        Return the JSON.loads().\n       Return the JSON.loads().\n       Return the JSON.loads().\n       Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n       Return the JSON.loads().\n       Return the JSON.loads().\n       Return the JSON.loads().\n       Return the JSON.loads().\n       Return the JSON.loads().\n       Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n       Return the JSON.loads().\n       Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n      Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n      Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n    Return the JSON.loads().\n    Return the JSON.loads().\n    Return the JSON.loads().\n    Return the JSON.loads().\n     Return the JSON.loads().\n    Return the JSON.loads().\n     Return the JSON.loads().\n    Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads().\n     Return the JSON.loads",
-  "acceptance_criteria": [
-    "No criteria specified"
+  "title": "User can create a new task",
+  "description": "As a user, I want to be able to create a new task with a title, description, due date, priority, and status.",
+  "acceptanceCriteria": [
+    "The system should allow the user to enter a title for the task.",
+    "The system should allow the user to enter a description for the task.",
+    "The system should allow the user to specify a due date for the task.",
+    "The system should allow the user to select a priority level (high, medium, low) for the task.",
+    "The system should allow the user to set the status of the task as 'in progress', 'completed', or 'deferred'."
   ],
-  "priority": "Medium"
+  "priority": "High",
+  "storyPoints": 8,
+  "dependencies": []
 }

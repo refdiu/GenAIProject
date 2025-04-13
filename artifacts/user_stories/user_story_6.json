@@ -1,0 +1,11 @@
+{
+  "Title": "Mark Task as Complete",
+  "Description": "As a user, I want to mark my task as complete so that I can keep track of the tasks that I have finished.",
+  "Acceptance Criteria": [
+    "Given a valid task ID, when the user clicks on the 'Complete' button, then the task should be marked as completed."
+  ],
+  "Priority": "High",
+  "Story Points": 5,
+  "Dependencies": [],
+  "Notes": []
+}

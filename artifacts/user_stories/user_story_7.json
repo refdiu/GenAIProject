@@ -1,0 +1,11 @@
+{
+  "Title": "Send Email Reminders",
+  "Description": "As a user, I want to receive email reminders for upcoming tasks so that I can stay on top of my task list.",
+  "Acceptance Criteria": [
+    "When the user has set up their email reminders, then the system should send an email reminder for each task that is due within the next [X] days."
+  ],
+  "Priority": "High",
+  "Story Points": 13,
+  "Dependencies": [],
+  "Notes": []
+}

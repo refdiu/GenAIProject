@@ -1,0 +1,13 @@
+{
+  "title": "User can update their tasks",
+  "description": "As a user, I want to be able to update my tasks so that I can keep them up-to-date and reflect any changes.",
+  "acceptanceCriteria": [
+    "The system should allow the user to edit the title, description, due date, priority level, or status of their task.",
+    "The system should validate the updates made by the user and prevent any invalid data from being entered."
+  ],
+  "priority": "Medium",
+  "storyPoints": 5,
+  "dependencies": [
+    "User can view their tasks"
+  ]
+}

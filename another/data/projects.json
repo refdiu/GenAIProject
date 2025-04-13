@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Online Study Forum",
+    "team": [
+      "John",
+      "Sarah",
+      "Emma",
+      "Mike"
+    ],
+    "story_points": 20,
+    "deadline": "2025-04-22",
+    "user_stories": [
+      "As a user, I want to create tasks so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to view tasks so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to update tasks so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to delete tasks so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to download reports as pdf so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive"
+    ],
+    "status": "Started"
+  },
+  {
+    "id": "2",
+    "title": "Online shopping",
+    "team": [
+      "Ray",
+      "Mickel",
+      "Siri",
+      "Sini"
+    ],
+    "story_points": 30,
+    "deadline": "2025-04-30",
+    "user_stories": [
+      "As a user, I want to login so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to logout so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to register so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to forgot password so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to shopping so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to return item so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to cancel product so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to payment option so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to cancel payment so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive",
+      "As a user, I want to product details so that I can accomplish my goal.\nAcceptance Criteria:\n- Should be easy to use\n- Should be functional and responsive"
+    ],
+    "status": "Not Started"
+  }
+]
